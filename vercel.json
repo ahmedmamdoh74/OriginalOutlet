@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://sienna-grouse-890454.hostingersite.com/$1",
+      "permanent": false
+    }
+  ]
+}
